@@ -177,3 +177,4 @@ C:\Users\Hamza\source\repos\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\
 C:\Users\Hamza\source\repos\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
 C:\Users\Hamza\source\repos\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
 C:\Users\Hamza\source\repos\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\Hamza\source\repos\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MovieCards.cshtml.g.cs

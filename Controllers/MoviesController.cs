@@ -149,5 +149,10 @@ namespace MvcMovie.Controllers
         {
             return _context.Movie.Any(e => e.Id == id);
         }
+
+        public async Task<IActionResult> MovieCards()
+        {
+            return PartialView((await _context.Movie.ToListAsync()));
+        }
     }
 }

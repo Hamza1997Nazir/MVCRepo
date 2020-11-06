@@ -1,0 +1,13 @@
+﻿@{ 
+    ViewData["ImageLink"] = "C:/Wallpaper/3.jpg";
+    ViewData["Title"] = "Hitler's War";
+    ViewData["Genre"] = "Drama";
+    ViewData["Date"] = "2/10/2020";
+}
+
+<h2>@ViewData["Title"]</h2>
+<img src=@ViewData["ImageLink"]  alt="Product Picture" width="200px" height="300px"/>
+<h4>Details</h4>
+<p>Name:    @ViewData["Title"]</p>
+<p>Release: @ViewData["Date"]</p>
+<p>Genre:   @ViewData["Genre"]</p>
